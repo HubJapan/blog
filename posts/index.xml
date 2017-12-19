@@ -2,25 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Hub Japan Blog</title>
-    <link>https://ashinote.com/hubjapan-blog/posts/</link>
+    <link>http://blog.hubjapan.io/posts/</link>
     <description>Recent content in Posts on Hub Japan Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2017 &lt;a href=&#39;https://ashinote.com&#39; target=&#39;_blank&#39;&gt;Ashinote, Inc.&lt;/a&gt; All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 16 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ashinote.com/hubjapan-blog/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.hubjapan.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Sample post</title>
-      <link>https://ashinote.com/hubjapan-blog/posts/my-first-post/</link>
-      <pubDate>Sat, 16 Dec 2017 00:00:00 +0000</pubDate>
+      <title>Inquiries during new year holidays / 年末年始期間のお問合わせについて</title>
+      <link>http://blog.hubjapan.io/posts/inquiries-new-year-holidays-2017/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ashinote.com/hubjapan-blog/posts/my-first-post/</guid>
-      <description> Introduction This post is sample. test
-Here&amp;rsquo;s an example:
-This post is sample. This is a test.  </description>
+      <guid>http://blog.hubjapan.io/posts/inquiries-new-year-holidays-2017/</guid>
+      <description>[日本語は下部に] Hub Japan team will be taking holidays for new years during the following period: December 27, 2017 - January 3, 2018 We reply to any inquiry we receive during the period after January 4, 2018.
+Hub Japan運営事務局は、下記期間を年末年始休業と致します。
+休業期間： 2017年12月28日 〜 2018年1月3日
+当該期間中のお問い合わせなどは、2018年1月4日以降のご返信となります。 何卒よろしくお願いいたします。</description>
+    </item>
+    
+    <item>
+      <title>Notice about using MEET &amp; EAT / MEET &amp; EAT 注意事項</title>
+      <link>http://blog.hubjapan.io/posts/notice-single-participants-meet-and-eat/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.hubjapan.io/posts/notice-single-participants-meet-and-eat/</guid>
+      <description>[日本語は下部に]
+MEET &amp;amp; EAT is intended for group matching. We recommend to bring friends, etc., as much as possible but if you cannot, please be extra careful. Also, we prohibit using the service for dating, business, and solicitation objectives in our terms.
+Please be careful to not cause troubles due to too many alcohols, etc.
+Please meet each other at one of the MEET &amp;amp; EAT Partner Restaurants to avoid troubles.</description>
+    </item>
+    
+    <item>
+      <title>We launched “MEET &amp; EAT” / “MEET &amp; EAT”を正式公開しました</title>
+      <link>http://blog.hubjapan.io/posts/launch-meet-and-eat/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.hubjapan.io/posts/launch-meet-and-eat/</guid>
+      <description>[日本語は下部に]
+On December 5, 2017, we launched “MEET &amp;amp; EAT”, an online matching service to find local Japanese to have a dinner together. We had been testing the service for few month, (thank you cooperators!) and refined the service to launch “MEET &amp;amp; EAT”
+[About MEET &amp;amp; EAT]
+“Socialize with local Japanese over food and drinks”
+MEET &amp;amp; EAT is a service for travelers (you and your company) and local Japanese (him/her and their company) to meet up, have a meal, and exchange cultures in a small maximum of 3 and 3 group.</description>
+    </item>
+    
+    <item>
+      <title>We started Hub Japan Blog  / Hub Japanブログを開設しました</title>
+      <link>http://blog.hubjapan.io/posts/start-blog/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.hubjapan.io/posts/start-blog/</guid>
+      <description>[日本語は下部に] We started Hub Japan Blog to connect with our users. We will post updates and news about Hub Japan on this blog from now on.
+Hub Japanブログを開設しました。今後Hub Japanに関するお知らせなどをアップしていきます。よろしくお願いいたします。
+Hub Japan
+English：https://hubjapan.io
+日本語：https://ja.hubjapan.io</description>
     </item>
     
   </channel>

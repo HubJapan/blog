@@ -2,32 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hub Japan Blog</title>
-    <link>https://ashinote.com/hubjapan-blog/categories/</link>
+    <link>http://blog.hubjapan.io/categories/</link>
     <description>Recent content in Categories on Hub Japan Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2017 &lt;a href=&#39;https://ashinote.com&#39; target=&#39;_blank&#39;&gt;Ashinote, Inc.&lt;/a&gt; All Rights Reserved.</copyright>
     
-	<atom:link href="https://ashinote.com/hubjapan-blog/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.hubjapan.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Development</title>
-      <link>https://ashinote.com/hubjapan-blog/categories/development/</link>
-      <pubDate>Sat, 16 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://ashinote.com/hubjapan-blog/categories/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Golang</title>
-      <link>https://ashinote.com/hubjapan-blog/categories/golang/</link>
-      <pubDate>Sat, 16 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://ashinote.com/hubjapan-blog/categories/golang/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

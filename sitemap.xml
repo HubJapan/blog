@@ -3,54 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ashinote.com/hubjapan-blog/posts/my-first-post/</loc>
-    <lastmod>2017-12-16T00:00:00+00:00</lastmod>
+    <loc>http://blog.hubjapan.io/posts/inquiries-new-year-holidays-2017/</loc>
+    <lastmod>2017-12-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ashinote.com/hubjapan-blog/categories/</loc>
+    <loc>http://blog.hubjapan.io/posts/notice-single-participants-meet-and-eat/</loc>
+    <lastmod>2017-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.hubjapan.io/posts/launch-meet-and-eat/</loc>
+    <lastmod>2017-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.hubjapan.io/posts/start-blog/</loc>
+    <lastmod>2017-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.hubjapan.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ashinote.com/hubjapan-blog/categories/development/</loc>
-    <lastmod>2017-12-16T00:00:00+00:00</lastmod>
+    <loc>http://blog.hubjapan.io/</loc>
+    <lastmod>2017-12-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ashinote.com/hubjapan-blog/tags/go/</loc>
-    <lastmod>2017-12-16T00:00:00+00:00</lastmod>
+    <loc>http://blog.hubjapan.io/tags/news/</loc>
+    <lastmod>2017-12-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ashinote.com/hubjapan-blog/tags/golang/</loc>
-    <lastmod>2017-12-16T00:00:00+00:00</lastmod>
+    <loc>http://blog.hubjapan.io/posts/</loc>
+    <lastmod>2017-12-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ashinote.com/hubjapan-blog/categories/golang/</loc>
-    <lastmod>2017-12-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ashinote.com/hubjapan-blog/</loc>
-    <lastmod>2017-12-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ashinote.com/hubjapan-blog/posts/</loc>
-    <lastmod>2017-12-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ashinote.com/hubjapan-blog/tags/</loc>
-    <lastmod>2017-12-16T00:00:00+00:00</lastmod>
+    <loc>http://blog.hubjapan.io/tags/</loc>
+    <lastmod>2017-12-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
