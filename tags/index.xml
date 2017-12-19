@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hub Japan Blog</title>
+    <link>https://ashinote.com/hubjapan-blog/tags/</link>
+    <description>Recent content in Tags on Hub Japan Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2017 &lt;a href=&#39;https://ashinote.com&#39; target=&#39;_blank&#39;&gt;Ashinote, Inc.&lt;/a&gt; All Rights Reserved.</copyright>
+    <lastBuildDate>Sat, 16 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ashinote.com/hubjapan-blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Go</title>
+      <link>https://ashinote.com/hubjapan-blog/tags/go/</link>
+      <pubDate>Sat, 16 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashinote.com/hubjapan-blog/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>https://ashinote.com/hubjapan-blog/tags/golang/</link>
+      <pubDate>Sat, 16 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashinote.com/hubjapan-blog/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
