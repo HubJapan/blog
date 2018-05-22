@@ -144,9 +144,12 @@ We had been testing the service for few month, (thank you cooperators!) and refi
 
 
 <script>
-window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', 'trackingcode', 'auto');
-ga('send', 'pageview');
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'trackingcode', 'auto');
+	ga('send', 'pageview');
+}
 </script>
 <script async src='//www.google-analytics.com/analytics.js'></script>
 
