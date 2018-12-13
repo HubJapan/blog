@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hub Japan Blog</title>
-    <link>http://blog.hubjapan.io/categories/</link>
+    <link>https://blog.hubjapan.io/categories/</link>
     <description>Recent content in Categories on Hub Japan Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2017 &lt;a href=&#39;https://ashinote.com&#39; target=&#39;_blank&#39;&gt;Ashinote, Inc.&lt;/a&gt; All Rights Reserved.</copyright>
     
-	<atom:link href="http://blog.hubjapan.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.hubjapan.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
