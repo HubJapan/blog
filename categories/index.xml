@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Categories on Hub Japan Blog</title>
-    <link>https://blog.hubjapan.io/categories/</link>
-    <description>Recent content in Categories on Hub Japan Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; 2017 &lt;a href=&#39;https://ashinote.com&#39; target=&#39;_blank&#39;&gt;Ashinote, Inc.&lt;/a&gt; All Rights Reserved.</copyright>
-    
-	<atom:link href="https://blog.hubjapan.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Hub Japan Blog</title><link>https://blog.hubjapan.io/categories/</link><description>Recent content in Categories on Hub Japan Blog</description><generator>Hugo -- gohugo.io</generator><copyright>&amp;copy; 2017 &lt;a href='https://ashinote.com' target='_blank'>Ashinote, Inc.&lt;/a> All Rights Reserved.</copyright><atom:link href="https://blog.hubjapan.io/categories/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
